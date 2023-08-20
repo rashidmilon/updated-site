@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 740px;
+  text-align: auto;
+  background-color: greenyellow;
+  margin: 20px auto;
+  padding: 20px;
+  float: top;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline rgb(223, 10, 191) solid;
+  padding-bottom: 20px;
+}
+
+img {
+  float: left;
+  margin-right: 20px;
+}
+
+.footer {
+  background-color: palevioletred;
+  width: 740px;
+  margin: 20px auto;
+  padding: 20px;
+  float: bottom;
+}
